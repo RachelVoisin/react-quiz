@@ -73,8 +73,8 @@ var questions = [
 			"Paladin"
 		],
 		points: [
-			["IZ", "SM", "AZ"],
-			["SL", "OZ"],
+			["SM", "AZ"],
+			["SL", "OZ", "IZ"],
 			["DM", "GG"],
 			["GR", "RK"],
 			["BR", "AZ"]
@@ -127,7 +127,7 @@ var questions = [
 		],
 		points: [
 			["BR", "SL", "GR", "GG"],
-			["RK"],
+			["RK", "IZ"],
 			["DM", "OZ"],
 			["SM", "GG"],
 			["IZ"]

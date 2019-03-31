@@ -9,6 +9,32 @@ import guildInfo from './guildInfo';
 let winner;
 let winner2;
 
+class Opening extends React.Component {
+	constructor(props) {
+		super(props);
+		this.handleClick = this.handleClick.bind(this);
+	}
+	handleClick() {
+		ReactDOM.render(
+		  <Quiz />,
+		  document.getElementById('root')
+		);
+	}
+	render() {
+		return(
+			<div className="opening container">
+				<p>Ravnica's vast, worldwide cityscape is a patchwork of grand halls, decrepit slums, and ancient ruins, with layer upon layer of stonework—and guild maneuverings.</p>
+				<p>Each of the ten guilds has mastered two of the five colors of mana, resulting in dramatically different cultural identities and functions.</p>
+				<img className="img-container" src="images/ravnica.jpg" alt="Ravnica image" />
+				<p className="center">Which Guild of Ravnica do you belong to? Take the quiz and find out!</p>
+				<button className="opening-btn" onClick={this.handleClick}>
+					Start the Quiz
+				</button>
+			</div>
+		);
+	}
+}
+
 class Quiz extends React.Component {
 	constructor(props) {
 		super(props);
@@ -125,6 +151,7 @@ class Quiz extends React.Component {
 				<Next 
 					onClick={() => this.handleClick()}
 				/>
+				<div className="questionCounter">{this.state.currentQuestion + 1} of 10</div>
 			</div>
 		);
 	}
@@ -235,6 +262,6 @@ class Tie extends React.Component {
 }
 
 ReactDOM.render(
-  <Quiz />,
+  <Opening />,
   document.getElementById('root')
 );

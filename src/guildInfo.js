@@ -2,52 +2,52 @@ var guildInfo = [
 	{
 		name: "the Golgari Swarm",
 		image: "images/golgari.jpg",
-		description: "The Golgari Swarm is the embodiment and amalgamation of life and death. The guild believes that life and death are both natural and are essential to, and as essential as, one another, with life and death being natural elements of a cycle with no intermediary break. Growth, and thus power, however slowly but ruthlessly and inevitably, are key to the Swarm. As a consequence of their necromantic magic, the Golgari are the largest Ravnican guild."
+		description: "While most Ravnicans prefer not to think about icky things like mortality and decay, the Golgari Swarm embraces this messy and endless cycle of creation and destruction. In fact, members of the black and green–aligned Golgari value the balance between life and death above all else. Members of the Swarm mostly live underground, dwelling in Ravnica's forgotten and unwanted places, foraging for refuse and discarded treasures from the world above. They are also talented farmers, providing Ravnica with the vast majority of its food production. The Golgari are the largest guild on Ravnica—in large part because of their love of reanimation magic, which they use quite liberally. To the Golgari, power is both incremental and inevitable. The more things die, the more the Golgari Swarm grows."
 	},
 	{
 		name: "the Gruul Clans",
 		image: "images/gruul.jpg",
-		description: "The Gruul are decentralized, lacking any sort of real leadership. Now the guild is nothing but a loose affiliation of clans. They have been exploited and ignored. They take any reason to cause chaos, any reason to destroy a symbol of civilization."
+		description: "The Gruul were given stewardship over Ravnica's wild places and natural beauty. But as the city began to sprawl out, the other nine guilds refused to heed the Gruul's warnings as they destroyed more and more of the wilderness. The Gruul were ignored, marginalized, and enslaved. Anger fermented. The guild's leadership structure crumbled. With nothing left to protect and conserve, after centuries of being ignored and oppressed, the Gruul became agents of chaos and destruction. It has been a long time since the Gruul Clans were unified under a single leader. Most members of the Gruul are willing to follow whomever seems like the strongest warrior at any given time."
 	},
 	{
 		name: "the Azorius Senate",
 		image: "images/azorius.jpg",
-		description: "Believing their legislation to be the singular force that prevents Ravnica from descending into chaos, the Azorius Senate mediates and regulates the activities of all of the other guilds and of the plane despite their numerous decrees being ignored. The Azorius Senate are characterized as being aloof, bureaucratic, excessively formalistic, and fastidious, spending hours upon hours with legal documents and ensuring action, if any should occur, stringently adheres to protocol."
+		description: "As Ravnica's foremost political body, the Azorius Senate is in charge of the legislation, enforcement, and arbitration of laws throughout the city. They believe that the rule of law is the only thing that stands between Ravnica and chaos; therefore, it is their right to create and enforce the law as they see fit. A little bureaucracy and the occasional injustice? Prices worth paying in order to prevent Ravnica from descending into anarchy. As you can imagine, many of the other guilds find the Azorius to be aloof, pedantic, and just plain no fun."
 	},
 	{
 		name: "the Boros Legion",
 		image: "images/boros.jpg",
-		description: "Founded by parun Razia, a militant flaming-sword-wielding archangel capable of using flame and light magic who fervently and firmly believes in harmonious coexistence on Ravnica, even if lives are lost and blood is shed in achieving this, the Boros Legion functions as the righteous and zealous constabulary and standing army of Ravnica."
+		description: "Might may not always make right, but the Boros Legion certainly believes in using their strength to prevent Ravnica from becoming a chaotic and unjust place. Members of the white and red–aligned Boros value honor and glory above all else, organizing their guild in a military-style hierarchy designed to keep the peace and enforce the law. The Boros consider themselves to be the military and peacekeeping arm of Ravnican society. If there's an uprising anywhere on Ravnica, the Boros will be there to quell the dispute. While many Ravnicans consider the Boros to be self-righteous and rigid, there is no denying that they provide much-needed protection for the guildless without asking for anything in return."
 	},
 	{
 		name: "the Izzet League",
 		image: "images/izzet.jpg",
-		description: "The Izzet League are charged with attending to Ravnican civic works, including water supply systems, sewers, heating systems, boilers, and roadways. In addition to carrying out these functions, the Izzet members — obsessive, keen, and creative intellectuals, who often have short attention spans — are known to perform magical experiments, ever with reckless abandon and sometimes with spectacular but severe results. Unlike the other guilds, the Izzet do not strive for hegemony of the city and the plane of Ravnica or power at all. Instead, integral to the Izzet League, a guild of masters of both theoretical and applied science and spellcraft, is the passionate seeking of, and thirst for, knowledge. Combined with their drive for discovery and child-like curiosity, the brilliant but capricious and whimsical Izzet magewrights jump to and from ideas as they see fit, discarding old ideas for new ones that attract their attention. In this regard, they can be likened to ambivalent or benevolent mad and absent-minded scientists/professors."
+		description: "Members of the blue and red–aligned Izzet value invention and discovery above all else, though they rarely have the patience for prolonged experimentation. This reckless but passionate experimentation has made the Izzet League into Ravnica's most successful civic engineers. The iconic brass boilers, roadways, and canals that crisscross Ravnica are the result of Izzet imagination and innovation. Granted, so was that day when the entire sky turned bright orange for a while, but the Izzet don't spend too much time dwelling on failure. They simply move on to their next big idea."
 	},
 	{
 		name: "the Simic Combine",
 		image: "images/simic.jpg",
-		description: "The original purpose of the Simic Combine was to preserve the health of all Ravnican life-forms. They were devoted to the study of life, medicines, and biomancy."
+		description: "At its heart, Simic philosophy comes back to the search for balance between two contradictory forces: the Holdfast and the Upwelling. The Holdfast represents the importance of staying rooted in the natural world, much the way a piece of kelp remains fastened to the ocean floor. The Upwelling represents the importance of constant improvement and renewal, much the way ocean currents spread nutrients throughout the sea. It is through this metaphor that the Simic approach to the world starts to make sense—remaining connected to nature is essential, yes, but that doesn't mean that we can't always improve upon it. Many of its members are scientists who spend large portions of their lives working in secret experimental laboratories. Others are physicians and surgeons, since the Simic Combine are technically in charge of maintaining Ravnica's public health."
 	},
 	{
 		name: "the Orzhov Syndicate",
-		image: "images/orzhov.jpg",
-		description: "Their white flavor can be seen in that they have a strong sense of tradition and community, reflected by the fact that they still go through all of their ancient rituals and customs despite not truly worshipping any gods, and by that they hoard all their wealth to themselves but will gladly share with family members or close friends. Their black flavor can be seen in that they regularly deal with the dead, they never give to charity if they can help it, and continually violate the spirit of the law solely to meet their own ends."
+		image: "images/orzhov.png",
+		description: "Do you want to live forever? More importantly, do you want to be rich and powerful forever? The Orzhov Syndicate does, and they've got the infrastructure to make it happen . . . for themselves, at least. he Orzhov began their life as a proper religious organization, and they still pay lip service to that idea from time to time. The Orzhov still employs priests, for example, and their guild hall is called Orzhova, the Church of Deals. These days, however, the 'deals' part of that name takes precedence over the 'church' part. There aren't many businesses on Ravnica that aren't either run by or in debt to the Orzhov, and the Syndicate's push into organized crime is only becoming more brazen. The Syndicate is organized into a loose affiliation of cartels, each of which is led by their own priest or kingpin. Maintaining a rigid hierarchy is important to the Orzhov, where your position in the guild is a matter of identity and power."
 	},
 	{
 		name: "House Dimir",
 		image: "images/dimir.jpg",
-		description: "House Dimir is a guild of secrecy, manipulation and underhanded deals, a shadowy organization operating behind the scenes to twist Ravnica to its own ends. The guild provides espionage, smuggling, burglary, counter-intelligence, assassination and other illegal services for the Ravnican populace. The guild is so secretive that even its own agents often do not know who they truly work for."
+		description: "Are you already an agent of House Dimir? I have no way of knowing for sure, so I'll speak carefully. Dimir is built on a network of secrets and backroom deals, and it can count Ravnica's best spies and assassins among its ranks. Members of the blue and black–aligned Dimir value deception and manipulation above all else. Most members of House Dimir know very little about the guild and its leadership. All pertinent information about House Dimir is on a strict need-to-know basis, even for those who serve it with unflinching loyalty."
 	},
 	{
 		name: "the Cult of Rakdos",
-		image: "images/rakdos.jpg",
-		description: "Like extreme utilitarians or hedonists, the Cult of Rakdos are a guild that places a premium on personal pleasure, or 'fun', even if it cruelly causes pain and suffering to others and themselves. Some of the crueler, more evil, and more sadistic members of the Cult directly and intentionally inflict pain on others."
+		image: "images/rakdos.png",
+		description: "Rules—who needs 'em? Certainly not the Cult of Rakdos. To a member of the Cult, rules are a great way to waste the all-too-brief spark of life that comes before the inevitability of death. Chaos is inevitable, life is short, death is natural, planning for the future is meaningless; let's party. While many of their performances are purely hedonistic (not to mention highly destructive), the Rakdos love to parody and lampoon authority as well. They don't much care for any guild that seeks power, viewing all external leadership as a threat to their individual freedoms. Beyond their work as entertainers, some of the more respectable Cult members are often shunted into service industry jobs while the less respectable Cultists end up as assassins or laborers. As you can imagine, the Cult of Rakdos doesn't exactly have a great reputation among the rest of Ravnican society. But while the Cult's penchant for anarchy and cruelty is looked down on, it is widely accepted that the Rakdos are incomparable performers and hosts."
 	},
 	{
 		name: "the Selesnya Conclave",
 		image: "images/selesnya.jpg",
-		description: "Founded by parun Mat'Selesnya, a female humanoid elemental formed via the fusion of dryads, the Selesnya Conclave is a decentralized collective variably described as a 'selfless, nurturing, spiritual group' or a 'brainwashing nature cult', and involves itself in the establishment and maintenance of peace, life, and unity in Ravnica."
+		description: "Members of the white and green–aligned Selesnya value collectivist ideals and the natural world above all else, believing that the best path to peace and happiness is through unity, togetherness, and preservation. While Selesnya seeks to achieve peace through unity, don't mistake them for pacifists. Their army may not be as disciplined as the Boros, but it is still both large and powerful. Wolves, knights, dryads, elves, elementals, and even massive armor-clad wurms fight for the utopian vision of the Conclave."
 	},
 ];
 
