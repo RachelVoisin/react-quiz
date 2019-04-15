@@ -156,7 +156,7 @@ var questions = [
 			"Social change? Who needs it!",
 			"Peaceful protest and demonstration.",
 			"Riot. Hacktivism. Do what's necessary.",
-			"Eat the rich."
+			"Vive la révolution! I'm angry and I want you to know it!"
 		],
 		points: [
 			["AZ", "OZ"],
